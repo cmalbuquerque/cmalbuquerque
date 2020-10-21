@@ -49,7 +49,7 @@
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=cmalbuquerque&repo=HandsfreeSystem&show_icons=true)](https://github.com/cmalbuquerque/HandsfreeSystem)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=cmalbuquerque&repo=Greencities&show_icons=true)](https://github.com/cmalbuquerque/Greencities)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=cmalbuquerque&repo=DomoticDashboard&show_icons=true)](https://github.com/cmalbuquerque/DomoticDashboard)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=cmalbuquerque&repo=DomoticDashboard&show_icons=true)](https://github.com/cmalbuquerque/domoticDashboard)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=cmalbuquerque&repo=WeatherApp&show_icons=true)](https://github.com/cmalbuquerque/WeatherApp)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=cmalbuquerque&repo=TQS_CurrencyApp&show_icons=true)](https://github.com/cmalbuquerque/TQS_CurrencyApp)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=cmalbuquerque&repo=GoCamping&show_icons=true)](https://github.com/cmalbuquerque/GoCamping)
