@@ -42,17 +42,3 @@
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
 
-
-
-
-#### Some University Projects
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=cmalbuquerque&repo=HandsfreeSystem&show_icons=true)](https://github.com/cmalbuquerque/HandsfreeSystem)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=cmalbuquerque&repo=Greencities&show_icons=true)](https://github.com/cmalbuquerque/Greencities)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=cmalbuquerque&repo=domoticDashboard&show_icons=true)](https://github.com/cmalbuquerque/domoticDashboard)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=cmalbuquerque&repo=WeatherApp&show_icons=true)](https://github.com/cmalbuquerque/WeatherApp)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=cmalbuquerque&repo=TQS_CurrencyApp&show_icons=true)](https://github.com/cmalbuquerque/TQS_CurrencyApp)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=cmalbuquerque&repo=GoCamping&show_icons=true)](https://github.com/cmalbuquerque/GoCamping)
-
-
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=cmalbuquerque&count_private=true&show_icons=true&hide=issues,contribs)
