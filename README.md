@@ -21,9 +21,10 @@
 
 #### About
 
+- ⚡️ Currently working with **Flutter**
 - 💻 Master's Degree student in Informatic Engineering  | 🎓 University of Aveiro
 - 💻 Barchelor's Degree in Informatic Engineering | 🎓 University of Aveiro
-- 🏠 From Viseu and living in Aveiro, Portugal
+- 📫 From Portugal
 - 📸 Photography lover
 
 
