@@ -16,8 +16,6 @@
   <img align="left" alt="Carolina's Facebook" width="22px" src="https://svgshare.com/getbyhash/sha1-Zk91p/AOc+l4XRzC1V2b8WyHqCg=" />
 </a>
 -->
-<br />
-<br />
 
 #### About
 
