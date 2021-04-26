@@ -19,7 +19,7 @@
 
 #### About
 
-- ⚡️  Currently working with **Flutter** and **Dart**
+- ⚡️  Currently working with **Flutter**, **Dart** and **Python**
 - 💻  Master's student in Software Engineering @ University of Aveiro
 - 💻  Barchelor in Software Engineering @ University of Aveiro
 - 🌍  From Viseu, Portugal
