@@ -19,11 +19,12 @@
 
 #### About
 
-- ⚡️  Currently working with **Flutter**, **Dart** and **Python**
-- 💻  Master's student in Software Engineering @ University of Aveiro
-- 💻  Barchelor in Software Engineering @ University of Aveiro
-- 🌍  From Viseu, Portugal
-- ✈️ Photography, traveling and cooking lover
+- ⚡️    Currently working with **Flutter**, **Dart** and **Python**
+- 📚    Learning **React**
+- 💻    Master's student in Software Engineering @ University of Aveiro
+- 💻    Barchelor in Software Engineering @ University of Aveiro
+- 🌍    From Viseu, Portugal
+- ✈️     Photography, traveling and cooking lover
 
 
 
