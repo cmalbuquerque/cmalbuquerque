@@ -19,12 +19,12 @@
 
 #### About
 
-- ⚡️    Currently working with **Flutter**, **Dart** and **Python**
-- 📚    Learning **React**
-- 💻    Master's student in Software Engineering @ University of Aveiro
-- 💻    Barchelor in Software Engineering @ University of Aveiro
+- ⚡️    Currently working with **React**
+- 💼    Frontend Software Engineer @ Nokia
+- 🎓     Masters in Software Engineering @ University of Aveiro
+- 🎓    Bachelor in Software Engineering @ University of Aveiro
 - 🌍    From Viseu, Portugal
-- ✈️     Photography, traveling and cooking lover
+- ✈️    Photography, traveling and cooking lover
 
 
 
@@ -32,7 +32,7 @@
 #### Languages and Frameworks
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="35" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
