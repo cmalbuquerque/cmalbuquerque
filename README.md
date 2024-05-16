@@ -19,9 +19,9 @@
 
 #### About
 
-- ⚡️    Currently working with **React**
+- ⚡️    Currently working with **React**, **Jest**, **React Testing Library** and **Sonarqube**
 - 💼    Frontend Software Engineer @ Nokia
-- 🎓     Masters in Software Engineering @ University of Aveiro
+- 🎓    Masters in Software Engineering @ University of Aveiro
 - 🎓    Bachelor in Software Engineering @ University of Aveiro
 - 🌍    From Viseu, Portugal
 - ✈️    Photography, traveling and cooking lover
@@ -30,16 +30,11 @@
 
 
 #### Languages and Frameworks
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
-<code><img height="40" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
-<code><img height="35" src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg"></code>
-<code><img height="40" src="https://profilinator.rishav.dev/skills-assets/apache_kafka-icon.svg"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
-<code><img height="40" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg"></code>
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+
