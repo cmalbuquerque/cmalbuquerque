@@ -19,8 +19,8 @@
 
 #### About
 
-- ⚡️    Currently working with **React**, **Jest**, **React Testing Library** and **Sonarqube**
-- 💼    Frontend Software Engineer @ Nokia
+- ⚡️    Currently working with **React**, **Vitest** and **React Testing Library**
+- 💼    Web Developer @ miio
 - 🎓    Masters in Software Engineering @ University of Aveiro
 - 🎓    Bachelor in Software Engineering @ University of Aveiro
 - 🌍    From Viseu, Portugal
